@@ -1,3 +1,3 @@
-import { PushSDK } from "./sdk/push.sdk";
+import { PushSDK } from "./src/push.sdk";
 
 export { PushSDK };
