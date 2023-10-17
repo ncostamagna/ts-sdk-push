@@ -1,9 +1,9 @@
 {
   "name": "ts-sdk-push",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "",
-  "main": "dist/push.sdk.js",
-  "types": "dist/push.sdk.d.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",

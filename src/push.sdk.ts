@@ -1,6 +1,6 @@
 import axios from "axios";
 
-interface PushResponse {
+export interface PushResponse {
   data: string;
   code: number;
 }
